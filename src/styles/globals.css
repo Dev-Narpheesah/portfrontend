@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* small utilities to match previous look */
+:root {
+  --bg-light: #f8fafc;
+  --bg-dark: #071024;
+}
+
+/* optional custom classes */
+.bg-glass {
+  background: rgba(255,255,255,0.04);
+  backdrop-filter: blur(6px);
+}
