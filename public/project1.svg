@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="800" viewBox="0 0 1200 800">
+  <rect width="100%" height="100%" fill="#0f172a"/>
+  <rect x="48" y="48" width="1104" height="704" rx="16" fill="#0b1220"/>
+  <g fill="#60a5fa" font-family="Arial, Helvetica, sans-serif">
+    <text x="600" y="360" font-size="48" text-anchor="middle" dominant-baseline="middle">Project Screenshot</text>
+    <text x="600" y="420" font-size="28" text-anchor="middle" dominant-baseline="middle">Placeholder — Disaster Relief Management System</text>
+  </g>
+</svg>
